@@ -1,4 +1,4 @@
-## Jack - Senior Full-Stack Developer
+## Senior Full-Stack Developer
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Brilliant%20Engineer&height=200&section=header"/>
 </p>
@@ -6,7 +6,7 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me</h2>
 
 ```yaml
-name: Jack
+name: Minion
 education:
   [
     "Self-Taught Developer and Designer",
